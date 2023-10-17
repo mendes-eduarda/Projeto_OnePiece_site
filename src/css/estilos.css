@@ -173,11 +173,12 @@ body{
         align-items: flex-end;
         width: 100%;
         padding: 30px;
-        margin-bottom:20px;
+        margin-bottom:30px;
     }
 
     .botoes .botao img {
         max-width: 60px;
+        margin-bottom:30px;
     }
 }
 
