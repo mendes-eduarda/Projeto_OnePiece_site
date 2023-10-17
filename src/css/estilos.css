@@ -105,8 +105,8 @@ body{
     }
 
     main .personagem.imagem {
-        width:80%
-        height:80%
+        width:80%;
+        height:80%;
     }
 
     .conteudo {
@@ -129,6 +129,7 @@ body{
         flex-direction: row;
         align-items: flex-end;
         width: 100%;
+        height: 100%;
         padding: 30px;
         
     }
@@ -147,8 +148,8 @@ body{
     }
 
     main .personagem.imagem {
-        width:70%
-        height:70%
+        width:70%;
+        height:70%;
     }
 
     .conteudo {
@@ -185,7 +186,7 @@ body{
 
 @media (max-width:425px) {
     main .personagem.imagem {
-        width: 66%%
+        width: 66%;
         height: 66%;
 
     }
