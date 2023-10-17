@@ -98,7 +98,7 @@ body{
           
        }
 
-@media (max-width:769px) {
+@media (max-width:1020px) {
 
      main::after {
         background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0.00)65%) no-repeat;
