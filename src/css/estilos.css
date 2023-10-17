@@ -106,7 +106,7 @@ body{
     }
 
     main .personagem.imagem {
-        height: 85%;
+        height: 70%;
     }
 
     .conteudo {
@@ -139,8 +139,8 @@ body{
 
 @media (max-width:425px) {
     main .personagem.imagem {
-        width: 100%
-        height: 100%;
+        width: 85%
+        height: 85%;
 
     }
 
