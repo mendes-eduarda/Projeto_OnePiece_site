@@ -215,7 +215,8 @@ body{
     }
 
     .botoes {
-        max-width: 57px;
+        max-width: 55px;
+        max-height:50px;
         top: -10%;
     }
 }
