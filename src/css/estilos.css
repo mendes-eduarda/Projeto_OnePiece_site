@@ -172,13 +172,13 @@ body{
         align-items: flex-end;
         width: 100%;
         padding: 30px;
-        margin-bottom:50px
+         top: -17%;
         
     }
 
     .botoes .botao img {
         max-width: 70px;
-        margin-bottom:50px
+         top: -17%;
         
     }
 }
@@ -207,12 +207,12 @@ body{
 
     .botoes {
         padding: 20px;
+        top: -15%;
         
-        margin-bottom:50px
     }
 
     .botoes {
         max-width: 57px;
-        margin-bottom:50px
+        top: -15%;
     }
 }
