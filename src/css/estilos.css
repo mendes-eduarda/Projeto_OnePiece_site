@@ -131,6 +131,7 @@ body{
         align-items: flex-end;
         width: 100%;
         padding: 30px;
+        margin-bottom:20px;
     }
 
     .botoes .botao img {
@@ -172,6 +173,7 @@ body{
         align-items: flex-end;
         width: 100%;
         padding: 30px;
+        margin-bottom:20px;
     }
 
     .botoes .botao img {
