@@ -106,7 +106,7 @@ body{
     }
 
     main .personagem.imagem {
-        width: 70%
+        width: 100%
        
     }
 
@@ -131,12 +131,12 @@ body{
         align-items: flex-end;
         width: 100%;
         padding: 30px;
-        margin-bottom:20px;
+        margin-bottom:35px;
     }
 
     .botoes .botao img {
         max-width: 60px;
-        margin-bottom:30px;
+        margin-bottom:35px;
     }
 }
     
@@ -150,7 +150,7 @@ body{
     }
 
     main .personagem.imagem {
-        width:70%
+        width:100%
     }
 
     .conteudo {
@@ -174,12 +174,12 @@ body{
         align-items: flex-end;
         width: 100%;
         padding: 30px;
-        margin-bottom:30px;
+        margin-bottom:35px;
     }
 
     .botoes .botao img {
         max-width: 60px;
-        margin-bottom:30px;
+        margin-bottom:35px;
     }
 }
 
