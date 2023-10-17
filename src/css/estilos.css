@@ -138,6 +138,7 @@ body{
 
 @media (max-width:425px) {
     main .personagem.imagem {
+        width: 100%
         height: auto;
 
     }
